@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 day la file thuoc branch week4  ma thoi
+=======
+day la file thuoc branch week4  va main
+>>>>>>> main
